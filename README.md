@@ -32,5 +32,5 @@ Desafio-amigo-secreto/
 │── assets/           # Imágenes e íconos
 │── README.md         # Documentación del proyecto
 
-Vista Previa 
-<img width="1031" height="679" alt="image" src="https://github.com/user-attachments/assets/a0d8ed81-d49c-4c58-90e4-a372438f0654" />
+![Vista previa](https://github.com/user-attachments/assets/a0d8ed81-d49c-4c58-90e4-a372438f0654)
+
